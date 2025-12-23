@@ -1,0 +1,1 @@
+# patika-algoritlamalar-insertionsort
